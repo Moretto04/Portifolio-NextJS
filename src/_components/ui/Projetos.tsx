@@ -11,7 +11,7 @@ const projects = [
         href: "https://www.diagonalstudio.com.br/",
         src: "/img/diagonal.png",
         titulo: "Diagonal Studio",
-        sobre: "Site desenvolvdio para uma agencia de design e marketing digital, em apresentar a empresa.",
+        sobre: "Site desenvolvdio para uma agencia de design e marketing digital, focado em apresentar a empresa.",
         tec: ["Typescript", "NextJS", "Styled-Components", "ReactJS"]
     },
     {

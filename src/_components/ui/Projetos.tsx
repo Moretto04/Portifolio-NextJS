@@ -20,7 +20,7 @@ const projects = [
         src: "/img/courtesy.png",
         titulo: "Courtesy",
         sobre: "Site criado para uma marca de roupas com foco em streetwear, apresentando um design moderno e responsivo.",
-        tec: ["Html", "Sass", "NodeJS"]
+        tec: ["HTML", "Sass", "NodeJS"]
     },
     {
         hrefGit: "https://github.com/Moretto04/api-bem-estar",
